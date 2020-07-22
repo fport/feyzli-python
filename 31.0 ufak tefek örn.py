@@ -1,0 +1,2 @@
+import oyun
+oyun.oyunBaslat()
